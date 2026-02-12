@@ -1,7 +1,15 @@
-## Hi there 👋
+###Bem vindo ao meu perfil 
+
+##Meu nome é Bruno Gabriel
+* Tenho 17 anos
+* Estou atualmente cursando uma faculdade de Desenvolvimento de Software Multiplataforma na Fatec
+* Completei o ensino médio em 2025
+* Atualmente trabalho como chaveiro e tenho uma renda extra com impressão 3d
+
+Caso queira me contatar o meu e-mail é: brunogabrielribeirodossantos@gmail.com
 
 <!--
-**brunoprint/brunoprint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BrunoGGames2008/BrunoGGames2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
