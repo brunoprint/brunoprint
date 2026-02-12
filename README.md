@@ -1,10 +1,27 @@
-###Bem vindo ao meu perfil 
+Olá, bem – vindo ao meu perfil!
 
-##Meu nome é Bruno Gabriel
-* Tenho 17 anos
-* Estou atualmente cursando uma faculdade de Desenvolvimento de Software Multiplataforma na Fatec
-* Completei o ensino médio em 2025
-* Atualmente trabalho como chaveiro e tenho uma renda extra com impressão 3d
+Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
+
+Competências em Ferramentas:
+-GitHub;
+
+Habilidades de Comunicação e Trabalho em Equipe:
+-Trabalho em Equipe;
+-Apresentações;
+-Comunicação;
+-Documentação;
+-Resolução de Problemas;
+
+Habilidades Técnicas de Programação:
+-HTML;
+-CSS;
+
+Design e Desenvolvimento Web:
+-Web Design;
+
+Idiomas:
+-Português (PT-BR);
+-Inglês;
 
 Caso queira me contatar o meu e-mail é: brunogabrielribeirodossantos@gmail.com
 
