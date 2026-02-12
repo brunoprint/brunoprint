@@ -1,7 +1,6 @@
 ## Bruno Gabriel ##
 
-![imagem1-46](https://github.com/user-attachments/assets/7e977707-a5b6-48ec-aa7a-bff86f570fb1)
-
+![cat](https://github.com/user-attachments/assets/fa14b6cc-67e6-4fd9-8700-0cda17480cae)
 
 Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
