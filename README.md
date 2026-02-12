@@ -2,7 +2,7 @@
 
 Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
-Competências em Ferramentas:
+## Competências em Ferramentas: ##
   -GitHub;
 
 ## Habilidades de Comunicação e Trabalho em Equipe: ##
