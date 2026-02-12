@@ -1,26 +1,33 @@
-** Bruno Gabriel **
+## Bruno Gabriel ##
 
 Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
 Competências em Ferramentas:
   -GitHub;
 
-Habilidades de Comunicação e Trabalho em Equipe:
+## Habilidades de Comunicação e Trabalho em Equipe: ##
   -Trabalho em Equipe;
+  
   -Apresentações;
+  
   -Comunicação;
+  
   -Documentação;
+  
   -Resolução de Problemas;
+  
 
-Habilidades Técnicas de Programação:
+## Habilidades Técnicas de Programação: ##
   -HTML;
+  
   -CSS;
 
-Design e Desenvolvimento Web:
+## Design e Desenvolvimento Web: ##
   -Web Design;
 
-Idiomas:
+## Idiomas: ##
   -Português (PT-BR);
+  
   -Inglês;
 
 Caso queira me contatar o meu e-mail é: brunogabrielribeirodossantos@gmail.com
