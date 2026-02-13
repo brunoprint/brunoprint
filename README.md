@@ -1,3 +1,4 @@
+Hello World!
 # Bruno Gabriel #
 
 ![cat](https://github.com/user-attachments/assets/fa14b6cc-67e6-4fd9-8700-0cda17480cae)
@@ -35,7 +36,7 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
   ### Estatísticas do Projeto
 | Métrica | Valor |
 | :--- | :--- |
-| **Commits** | 16 |
+| **Commits** | 17 |
 | **Issues** | 1 |
 | **Stars** | 1 |
 
