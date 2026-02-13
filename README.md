@@ -32,6 +32,15 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
   
   -Inglês;
 
+  ### Estatísticas do Projeto
+| Métrica | Valor |
+| :--- | :--- |
+| **Commits** | 16 |
+| **Issues** | 1 |
+| **Stars** | 1 |
+
+*Nota: Dados atualizados em: 12/02/2026* 
+
 ### Caso queira me contatar o meu e-mail é: brunogabrielribeirodossantos@gmail.com ###
 
 <!--
