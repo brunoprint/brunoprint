@@ -3,7 +3,12 @@
 Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
 ## Competências em Ferramentas: ##
-  -GitHub;
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## Habilidades Técnicas de Programação: ##
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ## Habilidades de Comunicação e Trabalho em Equipe: ##
   -Trabalho em Equipe;
@@ -16,30 +21,14 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
   
   -Resolução de Problemas;
   
-
-## Habilidades Técnicas de Programação: ##
-  -HTML;
-  
-  -CSS;
-
-## Design e Desenvolvimento Web: ##
-  -Web Design;
-
 ## Idiomas: ##
   -Português (PT-BR);
   
   -Inglês;
 
-  ### Estatísticas do Projeto
-| Métrica | Valor |
-| :--- | :--- |
-| **Commits** | 17 |
-| **Issues** | 1 |
-| **Stars** | 1 |
+## Formas de me contatar ##
+<a href="mailto:brunogabrielribeirodossantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-*Nota: Dados atualizados em: 12/02/2026* 
-
-### Caso queira me contatar o meu e-mail é: brunogabrielribeirodossantos@gmail.com ###
 
 <!--
 **BrunoGGames2008/BrunoGGames2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
