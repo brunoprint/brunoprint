@@ -39,7 +39,6 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 <a href="https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![mona-happy](https://github.com/user-attachments/assets/70423973-c4ec-4b08-a0dc-064f6fcae90b)
-![3ajp00on55r61](https://github.com/user-attachments/assets/77361334-4cf3-4343-bf28-2ae8400249db)
 
 <!--
 **BrunoGGames2008/BrunoGGames2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
