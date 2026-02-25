@@ -15,20 +15,24 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ## Habilidades de Comunicação e Trabalho em Equipe: ##
-  -Trabalho em Equipe;
+<ul>
+  <li>Trabalho em Equipe;
   
-  -Apresentações;
+  <li> Apresentações;
   
-  -Comunicação;
+  <li> Comunicação;
   
-  -Documentação;
+  <li> Documentação;
   
-  -Resolução de Problemas;
-  
+  <li> Resolução de Problemas;
+ </ul>
+ 
 ## Idiomas: ##
-  -Português (PT-BR);
+<ul>
+  <li> Português (PT-BR);
   
-  -Inglês;
+  <li> Inglês;
+</ul>
 
 ## Formas de me contatar ##
 <a href="mailto:brunogabrielribeirodossantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
