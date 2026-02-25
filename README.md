@@ -40,6 +40,11 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 
 ![mona-happy](https://github.com/user-attachments/assets/70423973-c4ec-4b08-a0dc-064f6fcae90b)
 
+<h3>"Linguagens são provisórias;<br>
+Os conceitos são Permanentes"</h3>
+-Junior Gonçalvez,2022
+
+
 <!--
 **BrunoGGames2008/BrunoGGames2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
