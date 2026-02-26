@@ -1,4 +1,5 @@
-<img width="1821" height="493" alt="github-header-banner" src="https://github.com/user-attachments/assets/ce9e0188-9f56-4dd8-8821-72b9c46d632c" />
+
+![5a986c79-8948-475f-9acb-77d840032818](https://github.com/user-attachments/assets/81233824-c7b9-4caf-a75b-afef5889c8e5)
 
 Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
