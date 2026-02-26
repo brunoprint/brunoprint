@@ -1,6 +1,6 @@
 <h1>"Eu não bugo, eu adiciono funcionalidades não documentadas."</h1>
 
-![5a986c79-8948-475f-9acb-77d840032818](https://github.com/user-attachments/assets/81233824-c7b9-4caf-a75b-afef5889c8e5)
+<img width="1821" height="493" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/a71e87eb-452c-4b09-b3e0-fb2b0078411d" />
 
 Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
