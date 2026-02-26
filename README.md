@@ -37,8 +37,9 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 </ul>
 
 ## Formas de me contatar ##
-<a href="mailto:brunogabrielribeirodossantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:brunogabrielribeirodossantos@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375)
 
 ![mona-happy](https://github.com/user-attachments/assets/70423973-c4ec-4b08-a0dc-064f6fcae90b)
 
