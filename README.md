@@ -1,3 +1,4 @@
+<h1>"Eu não bugo, eu adiciono funcionalidades não documentadas."</h1>
 
 ![5a986c79-8948-475f-9acb-77d840032818](https://github.com/user-attachments/assets/81233824-c7b9-4caf-a75b-afef5889c8e5)
 
@@ -40,10 +41,6 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 <a href="https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![mona-happy](https://github.com/user-attachments/assets/70423973-c4ec-4b08-a0dc-064f6fcae90b)
-
-<h3>"Linguagens são provisórias;<br>
-Os conceitos são Permanentes"</h3>
--Junior Gonçalvez,2022
 
 
 <!--
