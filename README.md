@@ -1,4 +1,4 @@
-<h1>"Eu não bugo, eu adiciono funcionalidades não documentadas."</h1>
+<h1>"Se o codigo não fundiona,verificar o Hello World!"</h1>
 
 <img width="1821" height="493" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/a71e87eb-452c-4b09-b3e0-fb2b0078411d" />
 
