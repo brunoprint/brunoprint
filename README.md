@@ -46,7 +46,8 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoprint&theme=tokyonight_duo" align="center">
 </div>
-<br/>
+<br/> 
+
 
 <!--
 **BrunoGGames2008/BrunoGGames2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
