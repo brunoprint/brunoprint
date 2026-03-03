@@ -46,7 +46,7 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 </div>
 <br/> 
 
-Frases Motivacionais:
+<b>Frases Motivacionais:</b>
 
 "Se o codigo está funcionando, não mexa"
 
