@@ -49,7 +49,7 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 <b>Frases Motivacionais:</b>
 
 "Se o codigo está funcionando, não mexa" <br>
-"Eu não cometo erros, eu apenas crio novas funcionalidades indesejadas."
+"Eu não cometo erros, eu apenas crio novas funcionalidades indesejadas." <br>
 "Não faço ideia de como fazer,mas sera feito"
 
 <!--
