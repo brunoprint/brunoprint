@@ -48,17 +48,17 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 
 <h2>Os 10 Mandamentos de T.I</h2>
 <br>
-01 - Não mexerás na gambiarra alheia
-02 - Não duvidarás da capacidade do usuário
-03 - Nem tudo que fizeres saberás explicar como o fez
-04 - Nem tudo na informática é o que parece ser
-05 - Aprenderás a fazer café
-06 - Temerás atualizações de Java
-07 - Entenderás a explicação "erro de não sei o que lá"
-08 - Manterás a calma em paradas do Sistema
-09 - Não mexerás em cabos de rede sem identificação
-10 - Não farás atendimento sem chamado aberto
-
+01 - Não mexerás na gambiarra alheia<br>
+02 - Não duvidarás da capacidade do usuário<br>
+03 - Nem tudo que fizeres saberás explicar como o fez<br>
+04 - Nem tudo na informática é o que parece ser<br>
+05 - Aprenderás a fazer café<br>
+06 - Temerás atualizações de Java<br>
+07 - Entenderás a explicação "erro de não sei o que lá"<br>
+08 - Manterás a calma em paradas do Sistema<br>
+09 - Não mexerás em cabos de rede sem identificação<br>
+10 - Não farás atendimento sem chamado aberto<br>
+<br>
 E SE NADA FUNCIONAR, REINICIE O PC
 
 <!--
