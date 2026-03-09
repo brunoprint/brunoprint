@@ -11,7 +11,7 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 
 ## Habilidades Técnicas de Programação: ##
 <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
-
+ 
 ## Habilidades de Comunicação e Trabalho em Equipe: ##
 <ul>
   <li>Trabalho em Equipe;
