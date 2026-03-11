@@ -44,7 +44,12 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoprint&theme=tokyonight_duo" align="center">
 </div>
-<br/> 
+<br> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoprint&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoprint&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
   
 CAFÉ <br>
