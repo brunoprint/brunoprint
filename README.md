@@ -52,6 +52,7 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoprint&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
   
 
 
