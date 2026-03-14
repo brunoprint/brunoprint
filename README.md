@@ -41,7 +41,7 @@ Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdad
 ![mona-happy](https://github.com/user-attachments/assets/70423973-c4ec-4b08-a0dc-064f6fcae90b)
 
 ## Github Stats
-
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunoprint&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoprint&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
