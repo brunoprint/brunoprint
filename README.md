@@ -1,7 +1,7 @@
 <img width="1821" height="493" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/a71e87eb-452c-4b09-b3e0-fb2b0078411d" />
 
 
-Meu nome é Bruno Gabriel,tenho 17 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
+Meu nome é Bruno Gabriel,tenho 18 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
 ## Competências em Ferramentas: ##
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
