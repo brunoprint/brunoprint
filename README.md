@@ -1,4 +1,4 @@
-<h2>Bruno Gabriel Ribeiro dos Santos</h2>
+#Bruno Gabriel Ribeiro dos Santos
 
 Meu nome é Bruno Gabriel,tenho 18 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
