@@ -1,4 +1,5 @@
-# Bruno Gabriel Ribeiro dos Santos
+<img width="1750" height="305" alt="github-header-banner" src="https://github.com/user-attachments/assets/b530b9bd-9f9e-4600-959f-2464f75f946e" />
+
 
 Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
