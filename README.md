@@ -51,10 +51,9 @@ Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculda
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375)
 
 ## Github Stats
-<div align="center" style:margin-top="0px;">
+<div align="center"style:margin-top="0px;">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&layout=compact&langs_count=4&theme=midnight-purple)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brunoprint&theme=midnight-purple&locale=pt&timezone=-3&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
