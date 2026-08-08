@@ -1,6 +1,6 @@
 # Bruno Gabriel Ribeiro dos Santos
 
-Meu nome é Bruno Gabriel,tenho 18 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
+Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
 
 ## Competências em Ferramentas: ##
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,9 +40,9 @@ Meu nome é Bruno Gabriel,tenho 18 anos e atualmente estou cursando uma faculdad
  
 ## Idiomas: ##
 <ul>
-  <li> Português (PT-BR);
+  <li> <img height="10" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"> Português (PT-BR);
   
-  <li> Inglês;
+  <li> <img height="9" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/3840px-Flag_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"> Inglês;
 </ul>
 
 ## Formas de me contatar ##
@@ -51,7 +51,7 @@ Meu nome é Bruno Gabriel,tenho 18 anos e atualmente estou cursando uma faculdad
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375)
 
 ## Github Stats
-<div align="center">
+<div align="center" style:margin-top="0px;">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&layout=compact&langs_count=4&theme=midnight-purple)
