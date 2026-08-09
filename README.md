@@ -1,9 +1,48 @@
-<img width="1750" height="305" alt="github-header-banner" src="https://github.com/user-attachments/assets/b530b9bd-9f9e-4600-959f-2464f75f946e" />
+<!-- ====================== -->
+<!--         BANNER         -->
+<!-- ====================== -->
+
+<img width="1821" height="290" alt="github-header-banner" src="https://github.com/user-attachments/assets/a9bb23ba-530e-4248-91e7-541013307460" />
+
+<br>
+
+<!-- ====================== -->
+<!--      APRESENTAÇÃO      -->
+<!-- ====================== -->
+
+<h1 align="center"> 
+Olá, eu sou o Bruno! 
+</h1>
+
+<h3 align="center">
+Desenvolvedor de Software | Desenvolvedor de Software Multiplataforma
+</h3>
+
+<br>
+
+<div align="center">
+
+<a href="https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+<a href="mailto:brunogabrielribeirodossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  &nbsp;&nbsp;
+  
+</div>
 
 
-Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Itapira. Trabalho atualmente como chaveiro e faço renda extra com impressão 3d.
+
+<!-- ====================== -->
+<!--      COMPETENCIAS      -->
+<!-- ====================== -->
+
+<div align="center">
 
 ## Competências em Ferramentas: ##
+
+</div>
+
+<div align="center">
+
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -11,22 +50,48 @@ Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculda
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+</div>
+
+<br>
+
+<!-- ====================== -->
+<!--      HABILIDADES       -->
+<!-- ====================== -->
 
 ## Habilidades Técnicas de Programação: ##
+
+###  -Front-End
+---
+
 <img height="50" align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> 
 <img height="50" align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"> 
+
+<br><br>
+
+
+###  -Back-End
+---
+
 <img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 <img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
-          
-          
+
+<br><br>
+
+###  -Banco de Dados
+---
+
+<img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
 
 <br><br>
 
+<!-- ====================== -->
+<!--      HABILIDADES       -->
+<!-- ====================== -->
+
 ## Habilidades de Comunicação e Trabalho em Equipe: ##
+
 <ul>
   <li>Trabalho em Equipe;
   
@@ -39,6 +104,10 @@ Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculda
   <li> Resolução de Problemas;
  </ul>
  
+<!-- ====================== -->
+<!--        IDIOMAS         -->
+<!-- ====================== -->
+
 ## Idiomas: ##
 <ul>
   <li> <img height="10" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"> Português (PT-BR);
@@ -46,13 +115,90 @@ Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculda
   <li> <img height="9" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/3840px-Flag_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"> Inglês;
 </ul>
 
-## Formas de me contatar ##
+<!-- ====================== -->
+<!--        PROJETOS        -->
+<!-- ====================== -->
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:brunogabrielribeirodossantos@gmail.com)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/bruno-gabriel-ribeiro-dos-santos-690031375)
+## Projetos em Destaque ##
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<!--GoraGO---------------------->
+
+### GoraGO
+
+
+**Plataforma de vagas e estágios para estudantes e empresas.**
+
+O sistema busca facilitar o encontro entre estudantes procurando oportunidades e empresas interessadas em novos talentos.
+
+**Funcionalidades**
+
+- Cadastro de candidatos
+- Cadastro de empresas
+- Publicação de vagas
+- Busca de oportunidades
+- Processo seletivo
+- Área do candidato
+- Área da empresa
+
+**Tecnologias**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br>
+
+<a href="https://github.com/brunoprint/GoraGO">
+  <b>🔗 Ver repositório →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<!--Volta ao Mundo - Chile-->
+
+### Projeto Chile
+
+**Website informativo sobre o Chile.**
+
+Projeto criado com o propósito de apresentar informações sobre o país atraves de uma interface organizada.
+
+**Conteúdo**
+
+- Sobre o Chile
+- Cultura Chilena
+- Geografia do Chile
+- História Chilena
+- Pontos turísticos
+
+**Tecnologias**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br>
+
+<a href="https://github.com/brunoprint/p2-dw1">
+  <b>🔗 Ver projeto →</b>
+</a>
+
+</td>
+
+</table>
+
+<!-- ====================== -->
+<!--     STATS GITHUB       -->
+<!-- ====================== -->
 
 ## Github Stats
-<div align="center"style:margin-top="0px;">
+
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple)
@@ -60,21 +206,9 @@ Meu nome é Bruno Gabriel, tenho 18 anos e atualmente estou cursando uma faculda
 [![GitHub Streak](https://streak-stats.demolab.com?user=brunoprint&theme=midnight-purple&locale=pt&timezone=-3&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
+<br>
 
-  
-
-
-<!--
-**BrunoGGames2008/BrunoGGames2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h1> Transformando café em código e ideias em realidade </h1>
+<i>Obrigado por visitar meu perfil!</i>
+</div>
