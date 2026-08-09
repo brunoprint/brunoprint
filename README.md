@@ -200,6 +200,10 @@ Projeto criado com o propósito de apresentar informações sobre o país atrave
 <!--     STATS GITHUB       -->
 <!-- ====================== -->
 
+## GitHub Trophy
+
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=brunoprint&theme=aura&margin-w=15&no-bg=true-no-frame=true&align=center">
+
 ## Github Stats
 
 <div align="center">
