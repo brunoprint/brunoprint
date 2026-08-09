@@ -2,7 +2,11 @@
 <!--         BANNER         -->
 <!-- ====================== -->
 
-<img width="1821" height="290" alt="github-header-banner" src="https://github.com/user-attachments/assets/a9bb23ba-530e-4248-91e7-541013307460" />
+<div data-importer="border">
+
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Bruno%20Gabriel%20Ribeiro%20dos%20Santos&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Estudante%20de%20DSM&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=8800ff"  />
+  
+</div>
 
 <br>
 
@@ -200,10 +204,10 @@ Projeto criado com o propósito de apresentar informações sobre o país atrave
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true)](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunoprint&theme=midnight-purple&locale=pt&timezone=-3&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunoprint&theme=midnight-purple&hide_border=true&locale=pt&timezone=-3&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 <br>
