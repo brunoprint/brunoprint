@@ -216,6 +216,22 @@ Projeto criado com o propósito de apresentar informações sobre o país atrave
 
 <br>
 
+
+<picture align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/brunoprint/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <div align="center">
 <h1> Transformando café em código e ideias em realidade </h1>
 <i>Obrigado por visitar meu perfil!</i>
