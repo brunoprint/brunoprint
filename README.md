@@ -45,6 +45,7 @@ Desenvolvedor de Software | Desenvolvedor de Software Multiplataforma
 
 </div>
 
+
 <div align="center">
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
