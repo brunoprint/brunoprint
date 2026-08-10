@@ -165,7 +165,7 @@ O sistema busca facilitar o encontro entre estudantes procurando oportunidades e
 
 <td width="50%" valign="top">
 
-<!--Volta ao Mundo - Chile-->
+<!--Volta ao Mundo - Chile -->
 
 ### Projeto Chile
 
