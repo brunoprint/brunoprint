@@ -211,8 +211,8 @@ Projeto criado com o propósito de apresentar informações sobre o país atrave
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true)](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=brunoprint&theme=midnight-purple&hide_border=true&locale=pt_BR&timezone=-5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <br>
