@@ -233,7 +233,3 @@ Projeto criado com o propósito de apresentar informações sobre o país atrave
   />
 </picture>
 
-<div align="center">
-<h1> Transformando café em código e ideias em realidade </h1>
-<i>Obrigado por visitar meu perfil!</i>
-</div>
