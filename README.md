@@ -4,7 +4,7 @@
 
 <div data-importer="border">
 
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Bruno%20Gabriel%20Ribeiro%20dos%20Santos&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Estudante%20de%20DSM&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=8800ff"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Bruno%20Gabriel%20Ribeiro%20dos%20Santos&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Estudante%20de%20DSM&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=8800ff"  />
   
 </div>
 
@@ -39,55 +39,52 @@ Desenvolvedor de Software | Desenvolvedor de Software Multiplataforma
 <!--      COMPETENCIAS      -->
 <!-- ====================== -->
 
-<div align="center">
 
-## Competências em Ferramentas: ##
+## Competências em Ferramentas e Linguagens: ##
 
+**Linguagens**
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="php" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="height:20px;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
 </div>
 
-
-<div align="center">
-
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+**Frameworks & Banco de dados**
+<div align="left">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" />
 </div>
 
-<br>
+**Sistemas Operacionais & Virtualização**
 
-<!-- ====================== -->
-<!--      HABILIDADES       -->
-<!-- ====================== -->
+<div align="left"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="windows" /> 
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"alt="virtualbox"> 
+</div>
 
-## Habilidades Técnicas de Programação: ##
+**Ferramentas**
+<div align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="vscode" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="visualstudio" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="trello" />
+</div>
 
-###  -Front-End
----
+**Design**
+<div align="left">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="figma" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="canva" />
+    <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="krita" style="height:20px;"/>
+</div>
 
-<img height="50" align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"> 
-<img height="50" align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"> 
-
-<br><br>
-
-
-###  -Back-End
----
-
-<img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
-<br><br>
-
-###  -Banco de Dados
----
-
-<img height="60" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
+**Inteligência Artificial**
+<div align="left">
+    <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="chatgpt" />
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="github copilot" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="gemini" />
+</div>
 
 <br><br>
 
@@ -126,94 +123,11 @@ Desenvolvedor de Software | Desenvolvedor de Software Multiplataforma
 
 ## Projetos em Destaque ##
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<!--GoraGO---------------------->
-
-### GoraGO
-
-
-**Plataforma de vagas e estágios para estudantes e empresas.**
-
-O sistema busca facilitar o encontro entre estudantes procurando oportunidades e empresas interessadas em novos talentos.
-
-**Funcionalidades**
-
-- Cadastro de candidatos
-- Cadastro de empresas
-- Publicação de vagas
-- Busca de oportunidades
-- Processo seletivo
-- Área do candidato
-- Área da empresa
-
-**Tecnologias**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<br>
-
-<a href="https://github.com/brunoprint/GoraGO">
-  <b>🔗 Ver repositório →</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<!--Volta ao Mundo - Chile -->
-
-### Projeto Chile
-
-**Website informativo sobre o Chile.**
-
-Projeto criado com o propósito de apresentar informações sobre o país atraves de uma interface organizada.
-
-**Conteúdo**
-
-- Sobre o Chile
-- Cultura Chilena
-- Geografia do Chile
-- História Chilena
-- Pontos turísticos
-
-**Tecnologias**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<br>
-
-<a href="https://github.com/brunoprint/p2-dw1">
-  <b>🔗 Ver projeto →</b>
-</a>
-
-</td>
-
-</table>
-
-<!-- ====================== -->
-<!--     STATS GITHUB       -->
-<!-- ====================== -->
-
-## GitHub Trophy
-
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=brunoprint&theme=radical&margin-w=15&no-bg=true-no-frame=true&align=center">
-
-## Github Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true)](https://github-stats-extended.vercel.app/api?username=brunoprint&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=brunoprint&langs_count=4&theme=midnight-purple)
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunoprint&theme=midnight-purple&hide_border=true&locale=pt_BR&timezone=-5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<br>
+| Projeto | Descrição | Tecnologías | Link |
+| --- | --- | --- | --- |
+| Volta ao Mundo: Chile | Projeto Volta ao Mundo: Chile - Criação de página web com HTML e CSS para testar capacidade de codificação e criatividade. | HTML5/CSS3 | <a href="https://github.com/brunoprint/p2-dw1"> <b>🔗 Ver projeto →</b></a> |
+| GoraGo | Projeto Integrador 1º Semestre- 2026/Fatec-Itapira - Criação de plataforma de vagas de estágio e emprego. | HTML5/CSS3/JavaScript | <a href="https://github.com/brunoprint/GoraGO"><b>🔗 Ver projeto →</b></a> |
+| SGCB | Projeto Integrador 2º Semestre- 2026/Fatec-itapia - Sistema de gerenciamento de locação de contêineres Barreto (Casas Barreto) | HTML5/CSS3/JavaScript/PHP/MySQL | <a href="https://github.com/AlexWilliam18/SGCB"><b>🔗 Ver projeto →</b></a> |
+| BEMFA Developers | Projeto próprio sobre a equipe dos projetos da faculdade denominado BEMFA | HTML5/CSS3 | Ver repositório
+---
 
